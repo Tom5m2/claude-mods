@@ -1,0 +1,7 @@
+{
+  "name": "matvei-mods",
+  "owner": { "name": "matvei" },
+  "plugins": [
+    { "name": "token-bar", "source": "./", "description": "Полоска над полем ввода: контекст и лимит 5 ч" }
+  ]
+}
